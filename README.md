@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan José Acosta Rico</h1>
 
 # 💫 About Me:
-🧑‍💻 Ingeniero Informático |<br> 👨‍💻 Programador | <br>🖥️📱 Diseñador Web |<br><br>🔭 Actualmente estoy trabajando por cuenta propia.<br>🌎 Estoy buscando Trabajo.<br>🌱 Actualmente estoy aprendiendo Laravel.<br>💬 Pregúntame sobre programación y desarrollo web.<br>⚡ Datos curiosos de programación y solución de problemas.<br>
+🔭 Actualmente estoy trabajando por cuenta propia.<br>🌎 Estoy buscando Trabajo.<br>🌱 Actualmente estoy aprendiendo Laravel.<br>💬 Pregúntame sobre programación y desarrollo web.<br>⚡ Datos curiosos de programación y solución de problemas.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juanjoseacostarico/) 
