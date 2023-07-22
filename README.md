@@ -2,6 +2,7 @@
 
 # 💫 About Me:
 🔭 Trabajando por cuenta propia.<br>🌎 Estoy buscando Trabajo como desarrollador web.<br>🌱 Actualmente estoy aprendiendo Laravel.<br>💬 Pregúntame sobre programación y desarrollo web.<br>⚡ Datos curiosos de programación y solución de problemas.<br>
+<br><p>Desarrollador web apasionado por crear soluciones digitales innovadoras y atractivas. Tengo dos año de experiencia trabajando con HTML, CSS, JavaScript y PHP en proyectos para clientes de diversos sectores. Me gusta estar al día de las últimas tendencias y tecnologías en el campo del desarrollo web y aprender constantemente nuevas habilidades. Mi objetivo es seguir creciendo como profesional y aportar valor a las empresas que confían en mi trabajo. Además, soy bueno trabajando en equipos de trabajo y me adapto fácilmente a diferentes entornos y situaciones.</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juanjoseacostarico/) 
